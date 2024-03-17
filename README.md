@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C++ language for App Devoloppement.**
 
-- 📫 How to reach me **mrns.bcr@gmail.com**
+- 📫 How to reach me: **mrns.bcr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
